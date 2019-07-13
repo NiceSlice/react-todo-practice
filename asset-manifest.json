@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-todo-practice/static/css/main.8b7f5935.chunk.css",
+    "main.js": "/react-todo-practice/static/js/main.d1fa901c.chunk.js",
+    "main.js.map": "/react-todo-practice/static/js/main.d1fa901c.chunk.js.map",
+    "runtime~main.js": "/react-todo-practice/static/js/runtime~main.fe00543b.js",
+    "runtime~main.js.map": "/react-todo-practice/static/js/runtime~main.fe00543b.js.map",
+    "static/js/2.737d708f.chunk.js": "/react-todo-practice/static/js/2.737d708f.chunk.js",
+    "static/js/2.737d708f.chunk.js.map": "/react-todo-practice/static/js/2.737d708f.chunk.js.map",
+    "index.html": "/react-todo-practice/index.html",
+    "precache-manifest.851f9597b8b5f9ebf5dc43ded037f014.js": "/react-todo-practice/precache-manifest.851f9597b8b5f9ebf5dc43ded037f014.js",
+    "service-worker.js": "/react-todo-practice/service-worker.js",
+    "static/css/main.8b7f5935.chunk.css.map": "/react-todo-practice/static/css/main.8b7f5935.chunk.css.map",
+    "static/media/logo.svg": "/react-todo-practice/static/media/logo.889e63b0.svg"
+  }
+}
