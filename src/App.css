@@ -31,3 +31,64 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  max-width: 1200px;
+  background: rgb(238, 238, 238);
+  margin: auto;
+  overflow: auto;
+}
+
+.header {
+  box-sizing: border-box;
+  height: 80px;
+  background: rgb(154, 154, 161);
+  padding: 16px;
+}
+
+.logo {
+  height: 50px;
+  width: 50px;
+}
+
+.calendar {
+  margin-top: 10px;
+}
+
+p {
+  padding: 20px;
+}
+
+.todo-container {
+  margin: 10px;
+  display: flex;
+  height: 50px;
+}
+
+.todo {
+  flex: 3;
+  margin: 5px;
+}
+
+.save-button {
+  flex: 1;
+  margin: 5px;
+}
+
+.todo-item {
+  background: rgb(154, 154, 161);
+  border-radius: 5px;
+  margin: 0 15px;
+}
+
+.checkbox {
+  float: right;
+  margin-left: 15px;
+}
+
+.crossed {
+  padding: 20px;
+  text-decoration: line-through;
+}
